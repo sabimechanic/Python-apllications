@@ -1,0 +1,2 @@
+This is web application of an partially interactive map. This application
+was created using python and folium.
