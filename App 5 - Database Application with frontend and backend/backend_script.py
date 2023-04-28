@@ -47,7 +47,7 @@ def update(id,title,author,year,isbn):
 
 connect()
 #insert("The mail", "Jess Scott", 1998, 1234588)
-delete(4)
-update(6, "The moon","Hero Guiness",1759,998888)
+#delete(4)
+#update(6, "The moon","Hero Guiness",1759,998888)
 print (view())
 #print(search(author="Jessica Jill"))
